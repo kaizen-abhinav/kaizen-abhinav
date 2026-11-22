@@ -1,6 +1,6 @@
 <div align="center">
 
-# Hi there, I'm Abhinav 👋
+# Hi there, I'm Abhinav 
 
 ### Robotics & Autonomous Systems | Software Engineer | Open Source Enthusiast
 
@@ -18,17 +18,17 @@
 
 ---
 
-### 👨‍💻 About Me
+###  About Me
 
-- 🔭 **Working on**: Autonomous systems, robotics middleware, and simulation pipelines.
-- 🌱 **Learning**: Advanced distributed systems, Zenoh DDS integration, and sensor fusion.
-- 💡 **Interests**: Robotics (ROS 2), Computer Vision, Autonomous Vehicles, and High-Performance C++/Python.
-- 💬 **Ask me about**: ROS 2, CARLA simulation, C++, Python, and Linux robotics stacks.
-- ⚡ **Fun fact**: I spend 80% of my time debugging and 20% wondering why it finally worked.
+- 🔭**Working on**: Autonomous systems, robotics middleware, and simulation pipelines.
+- 🌱**Learning**: Advanced distributed systems, Zenoh DDS integration, and sensor fusion.
+- 💡**Interests**: Robotics (ROS 2), Computer Vision, Autonomous Vehicles, and High-Performance C++/Python.
+- 💬**Ask me about**: ROS 2, CARLA simulation, C++, Python, and Linux robotics stacks.
+-  **Fun fact**: I spend 80% of my time debugging and 20% wondering why it finally worked.
 
 ---
 
-### 🛠️ Tech Stack & Skills
+### Tech Stack & Skills
 
 **Languages & Core**  
 ![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
